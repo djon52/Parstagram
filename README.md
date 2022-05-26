@@ -2,8 +2,6 @@
 
 Parstagram is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: 5 hours spent in total
-
 ## User Stories
 
 The following **required** functionality is completed:
@@ -17,11 +15,6 @@ The following **optional** features are implemented:
 
 - [x] User sees app icon in home screen and styled bottom navigation view
 - [x] Style the feed to look like the real Instagram feed.
-- [ ] After the user submits a new post, show an indeterminate progress bar while the post is being uploaded to Parse.
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
